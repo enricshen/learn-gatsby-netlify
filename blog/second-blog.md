@@ -3,7 +3,7 @@ path: /blog/second-blog
 date: 2021-11-02T02:14:12.556Z
 title: My second blog
 ---
-![](./static/assets/test.jpg)
+![](../static/assets/test.jpg)
 
 8-)
 
