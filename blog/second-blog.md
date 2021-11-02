@@ -1,5 +1,5 @@
 ---
-path: blog/second-blog
+path: /blog/second-blog
 date: 2021-11-02T02:14:12.556Z
 title: second blog
 ---
