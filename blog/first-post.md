@@ -21,4 +21,4 @@ In a terminal window, run `git pull origin main` and you’ll see your project
 
 
 
-![monkey](assets/monkey-1.jpg "monkey")
+![monkey](static/assets/monkey-1.jpg "monkey")
