@@ -5,6 +5,7 @@ title: My second blog
 ---
 8-)
 ### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
+![Minion](https://octodex.github.com/images/minion.png)
 
 ## Typographic replacements
 
