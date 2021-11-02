@@ -3,8 +3,12 @@ path: /blog/second-blog
 date: 2021-11-02T02:14:12.556Z
 title: My second blog
 ---
+![](static/assets/test.jpg)
+
 8-)
+
 ### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
+
 ![Minion](https://octodex.github.com/images/minion.png)
 
 ## Typographic replacements
@@ -19,39 +23,39 @@ test.. test... test..... test?..... test!....
 
 "Smartypants, double quotes" and 'single quotes'
 
-
 ## Emphasis
 
 **This is bold text**
 
-__This is bold text__
+**This is bold text**
 
 *This is italic text*
 
-_This is italic text_
+*This is italic text*
 
 ~~Strikethrough~~
 
-
 ## Blockquotes
 
-
 > Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
+>
+> > ...by using additional greater-than signs right next to each other...
+> >
 > > > ...or with spaces between arrows.
-
 
 ## Lists
 
 Unordered
 
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
+* Create a list by starting a line with `+`, `-`, or `*`
+* Sub-lists are made by indenting 2 spaces:
+
+  * Marker character change forces new list start:
+
     * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
+    * Facilisis in pretium nisl aliquet
+    * Nulla volutpat aliquam velit
+* Very easy!
 
 Ordered
 
