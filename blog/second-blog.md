@@ -4,6 +4,7 @@ date: 2021-11-02T02:14:12.556Z
 title: My second blog
 ---
 8-)
+### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
 
 ## Typographic replacements
 
