@@ -5,8 +5,6 @@ title: first post
 ---
 # This is my first post
 
-
-
 <!--StartFragment-->
 
 Click **Register application** and you’ll be provided with the client ID and secret you were looking for.
@@ -20,3 +18,7 @@ If you see an error the first time it loads, you can ignore it. It happens becau
 In a terminal window, run `git pull origin main` and you’ll see your project is updated with the post you created
 
 <!--EndFragment-->
+
+
+
+![monkey](static/assets/monkey-1.jpg "monkey")
