@@ -14,6 +14,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@okta/okta-signin-widget": "^5.13.0",
     "gatsby": "^4.0.2",
     "gatsby-plugin-netlify-cms": "^6.0.0",
     "gatsby-source-filesystem": "^4.0.0",
