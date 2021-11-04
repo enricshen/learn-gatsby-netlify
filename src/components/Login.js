@@ -3,14 +3,14 @@ import '@okta/okta-signin-widget/dist/css/okta-sign-in.min.css'
 import React from 'react'
 
 const config = {
-  baseUrl: 'dev-91245284.okta.com',
-  clientId: '0oa2hf88baeBCJl9Q5d7',
+  baseUrl: 'https://dev-91245284.okta.com',
+  clientId: '0oa2hxx9z0soReV3d5d7',
   logo: '//logo.clearbit.com/gatsbyjs.org',
   redirectUri: typeof window !== 'undefined' && window.location.origin + '/account',
   el: '#signIn',
   authParams: {
-    issuer: 'dev-91245284.okta.com/oauth2/default',
-    scopes: ['openid', 'email', 'profile']
+    pkce:true,
+    responseType: ["token", "id_token"],
   }
 };
 
